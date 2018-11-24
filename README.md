@@ -5,7 +5,7 @@ This is a game I developed in Unity3d when I was 16 in 2017. All objects in the 
 - [Objective](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#objective)
 - [Running the Game](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#running-the-game)
 - [Gameplay Screenshots](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#gameplay-screenshots)
-- [Ship Design & Render](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#ship-design-&-render)
+- [Ship Design Render](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#ship-design-render)
 - [Find Me](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#find-me-)
 
 ## Objective 
