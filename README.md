@@ -23,7 +23,7 @@ You can open the game in Unity by clicking on the PROJECT BALL unity file in /As
 [[Back to contents]](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#contents)
 
 <img src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/Screen_1.png" width="217"><img src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/Screen_2.png" width="217"><img src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/Screen_3.png" width="219"><img src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/Screen_4.png" width="217">
-# Ship Design & Render
+# Ship Design Render
 
 [[Back to contents]](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#contents)
 
