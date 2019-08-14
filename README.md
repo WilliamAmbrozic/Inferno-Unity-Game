@@ -33,6 +33,8 @@ You can open the game in Unity by clicking on the PROJECT BALL unity file in /As
 <img align="left" src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/%236.%20Inside%20ship%20During%20Flight%20(Looking%20Down).png" width="250">
 <img align="left" src= "https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/%239.%20Gyroscope%20Handle%20Controls.png" width="157"><img align="left" src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/%238.%20Cockpit.png" width="158"><img align="center" src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/Sketch23.png" width="159"><img align="right" src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/%232.%20Back%20Shot%20of%20Ship%20Mid-Flight.png" width="158"><img align="right" src="https://github.com/WilliamAmbrozic/Inferno-Unity-Game/blob/master/Screenshots%20%26%20Design/%2311.%20Tire%20Treads.png" width="157">
 
+
+
 ## Find Me <img src="https://imgur.com/download/FpDFVjy" width="25"> 
 
 [[Back to contents]](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#contents)
