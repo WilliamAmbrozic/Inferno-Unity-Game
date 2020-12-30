@@ -36,7 +36,5 @@ You can open the game in Unity by clicking on the PROJECT BALL unity file in /As
 ## Find Me <img src="https://imgur.com/download/FpDFVjy" width="25"> 
 
 [[Back to contents]](https://github.com/WilliamAmbrozic/Inferno-Unity-Game#contents)
-- [Hire Me or Learn More](https://williamambrozic.info)
+- [williamambrozic.info](https://williamambrozic.info)
 - [Youtube](https://www.youtube.com/channel/UCL-VushY6SO0ofPTZ8iB3ag)
-- [Instagram](https://www.instagram.com/williamambrozic)
-- [Twitter](https://twitter.com/WilliamAmbrozic)
